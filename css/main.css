@@ -1,0 +1,14 @@
+/* Base */
+@import "./reset.css";
+
+/* Blocks */
+@import "./header.css";
+/* SMALLER DESKTOP */
+@import "./screenupto1250px.css";
+
+/* IPAD */
+@import "./ipad.css";
+
+/* PHONE */
+@import "./phone.css";
+
